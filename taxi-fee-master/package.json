@@ -1,0 +1,15 @@
+{
+  "name": "js-online-quiz-template",
+  "version": "1.0.0",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/tws-stack/js-online-quiz-template/issues"
+  },
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  },
+  "scripts": {
+    "test": "jasmine ./spec/*.js"
+  },
+  "license": "ISC"
+}
